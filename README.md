@@ -24,7 +24,7 @@
       b) I have installed spinner-react which provides a inbuilt component <SpinnerCircular>
 
 
-4)UserCard.js
+4 UserCard.js
     
      each card displays a avatar/image of person,name and email-id;  
 
