@@ -21,7 +21,8 @@
 
       a) Loading component renders the spinner on Page while we are fetching the data from API, (so it makes it more user friendly).
       
-      b) I have installed spinner-react which provides a inbuilt component <SpinnerCircular>
+      b) I have installed spinner-react which provides a inbuilt component
+          " <SpinnerCircular> "
 
 
 4 UserCard.js
