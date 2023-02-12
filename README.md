@@ -30,4 +30,4 @@
 
 5) I have made use of styled-components, CSS, and different kind of dependencies, which are there in package.json.
     
-    Time Taken : 1.5hrs
+    Time Taken : 1hrs
