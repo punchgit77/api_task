@@ -29,3 +29,5 @@
      each card displays a avatar/image of person,name and email-id;  
 
 5) I have made use of styled-components, CSS, and different kind of dependencies, which are there in package.json.
+    
+    Time Taken : 1.5hrs
