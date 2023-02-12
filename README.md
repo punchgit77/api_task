@@ -1,10 +1,13 @@
 1) created react app using ---> npx create-react-app
 2) App.js 
     
-      a) it returns a Button and the brand logo ---> (present in navbar) 
+      a) it returns a Button and the brand logo ---> (present in navbar).
+      
       b) on Button Click a function gets called which returns the API result in JSON format.
+      
       c) useState() : 
             The returned data from API is stored into variable named as data using useState. 
+            
       d) data is then rendered on website in the GRID FORMAT.
          
          Styled-Components : 
