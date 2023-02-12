@@ -18,11 +18,14 @@
               
          
 3) Loading.js
+
       a) Loading component renders the spinner on Page while we are fetching the data from API, (so it makes it more user friendly).
+      
       b) I have installed spinner-react which provides a inbuilt component <SpinnerCircular>
 
 
 4)UserCard.js
+    
      each card displays a avatar/image of person,name and email-id;  
 
 5) I have made use of styled-components, CSS, and different kind of dependencies, which are there in package.json.
